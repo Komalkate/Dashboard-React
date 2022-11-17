@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 100% !important;
+}
+a{
+    text-decoration: none !important;
+}
+ul li{
+    list-style-type: none !important;
+}
+.mainRight{
+    width: 300px;
+    background-color: #fafafa;
+}
+.SideBar{
+    color: black;
+    /* background-color: #fafafa; */
+    cursor: pointer;
+}
+.SideBar ul li:hover{
+    transition: .3s;
+}
+.SideBar #active{
+    width: 100%;
+    color: #fafafa;
+    background-color: #323b44;
+}
+.NavBar{
+    background-color: #3D4752;
+    color: white;
+}
+.stAte{
+    width: 250px !important;
+    background-color: #28AF61;
+}
+.stAte .iconBack{
+    margin-top: -30px;
+    background-color: #89ECB3;
+    color: lightgreen;
+}
+.iconBack{
+    /* background-color: #3f5e7e; */
+}
+.GrayColor{
+    color: rgb(143, 143, 143);
+}
+.grayColor{
+    color: rgb(179, 179, 179);
+}
+.cartOne{
+    height: 50vh;
+    background-color: #141515;
+}
+.cartOne1{
+    background-color: #141515;
+}
+span{
+    cursor: pointer;
+}
+.MainCalendar{
+    height: 400px;
+    width: 400px;
+    border: 1px solid;
+}
+.exampleFour{
+    margin-top: -100px;
+}
